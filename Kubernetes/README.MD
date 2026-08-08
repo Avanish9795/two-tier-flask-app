@@ -1,9 +1,5 @@
 How to setup two-tier application deployment on kubernetes cluster
 
-First clone the code to your machine
-
-git clone https://github.com/LondheShubham153/two-tier-flask-app.git
-
 Move to k8s directory
 
 cd two-tier-flask-app/k8s
